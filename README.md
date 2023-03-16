@@ -2,6 +2,8 @@
 
 ## Folder Structure
 
+```powershell
+
 models_train-------- pre-trained models
 runs_results-------- results folder for training
 static-------------- CSS Files and images for frontend
@@ -9,6 +11,7 @@ templates----------- index.html
 app.py-------------- Flask app
 UC-4_Obj_det.ipynp-- Python notebook
 
+```
 
 ## Steps to run the API in Localhost ##
 
